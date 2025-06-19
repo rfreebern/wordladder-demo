@@ -183,10 +183,10 @@ globalThis.games = [
   },
   {
     "date": "2025-06-14",
-    "start": "PROTEST",
-    "end": "FREE",
-    "ace": 7,
-    "difficulty": 2
+    "start": "TWIRL",
+    "end": "AROUND",
+    "ace": 8,
+    "difficulty": 3
   },
   {
     "date": "2025-06-15",
@@ -197,10 +197,10 @@ globalThis.games = [
   },
   {
     "date": "2025-06-16",
-    "start": "SOIL",
-    "end": "GARDEN",
-    "ace": 8,
-    "difficulty": 2
+    "start": "YOUNGER",
+    "end": "ADOPT",
+    "ace": 10,
+    "difficulty": 3
   },
   {
     "date": "2025-06-17",
@@ -218,16 +218,16 @@ globalThis.games = [
   },
   {
     "date": "2025-06-19",
-    "start": "EAT",
-    "end": "DRINK",
+    "start": "SEAN",
+    "end": "PIERCE",
     "ace": 6,
-    "difficulty": 2
+    "difficulty": 1
   },
   {
     "date": "2025-06-20",
-    "start": "STAIR",
-    "end": "CLIMB",
-    "ace": 7,
+    "start": "SELECTED",
+    "end": "CHOSEN",
+    "ace": 12,
     "difficulty": 2
   },
   {
@@ -239,23 +239,23 @@ globalThis.games = [
   },
   {
     "date": "2025-06-22",
-    "start": "SPACE",
-    "end": "SHIP",
-    "ace": 6,
-    "difficulty": 1
+    "start": "NAMELESS",
+    "end": "UNTITLED",
+    "ace": 13,
+    "difficulty": 3
   },
   {
     "date": "2025-06-23",
-    "start": "SOUP",
-    "end": "SALAD",
-    "ace": 6,
+    "start": "PASTA",
+    "end": "NOODLES",
+    "ace": 9,
     "difficulty": 2
   },
   {
     "date": "2025-06-24",
-    "start": "LUNCH",
-    "end": "DINNER",
-    "ace": 7,
+    "start": "ROUGHER",
+    "end": "SMOOTHER",
+    "ace": 6,
     "difficulty": 2
   },
   {
@@ -263,70 +263,70 @@ globalThis.games = [
     "start": "PEEK",
     "end": "GLANCE",
     "ace": 7,
-    "difficulty": 2
+    "difficulty": 1
   },
   {
     "date": "2025-06-26",
-    "start": "LIGHT",
-    "end": "DARK",
-    "ace": 7,
+    "start": "SLEEPING",
+    "end": "WAKING",
+    "ace": 6,
     "difficulty": 1
   },
   {
     "date": "2025-06-27",
-    "start": "BEST",
-    "end": "WORST",
-    "ace": 4,
-    "difficulty": 1
+    "start": "GREASE",
+    "end": "FRICTION",
+    "ace": 12,
+    "difficulty": 2
   },
   {
     "date": "2025-06-28",
-    "start": "SOLAR",
-    "end": "POWER",
-    "ace": 4,
-    "difficulty": 1
+    "start": "BILLIONS",
+    "end": "RECLAIM",
+    "ace": 11,
+    "difficulty": 4
   },
   {
     "date": "2025-06-29",
-    "start": "WILD",
-    "end": "TAME",
+    "start": "TRIAGE",
+    "end": "TREAT",
     "ace": 5,
-    "difficulty": 1
+    "difficulty": 2
   },
   {
     "date": "2025-06-30",
-    "start": "PLANET",
-    "end": "EARTH",
-    "ace": 6,
-    "difficulty": 3
+    "start": "BOURNE",
+    "end": "SPIES",
+    "ace": 7,
+    "difficulty": 2
   },
   {
     "date": "2025-07-01",
-    "start": "DEMON",
-    "end": "ANGEL",
-    "ace": 6,
-    "difficulty": 4
+    "start": "NIMROD",
+    "end": "PRESIDENT",
+    "ace": 14,
+    "difficulty": 5
   },
   {
     "date": "2025-07-02",
     "start": "BILLIE",
     "end": "JEAN",
     "ace": 8,
-    "difficulty": 2
+    "difficulty": 1
   },
   {
     "date": "2025-07-03",
-    "start": "PRINCE",
-    "end": "KING",
-    "ace": 6,
-    "difficulty": 2
+    "start": "UNDERTAKEN",
+    "end": "SKIPPED",
+    "ace": 18,
+    "difficulty": 5
   },
   {
     "date": "2025-07-04",
     "start": "STARS",
     "end": "STRIPES",
     "ace": 5,
-    "difficulty": 1
+    "difficulty": 2
   },
   {
     "date": "2025-07-05",
@@ -589,10 +589,10 @@ globalThis.games = [
   },
   {
     "date": "2025-08-11",
-    "start": "THIRSTY",
-    "end": "PEPSI",
-    "ace": 9,
-    "difficulty": 3
+    "start": "EMACS",
+    "end": "EAGLE",
+    "par": 8,
+    "ace": 5
   },
   {
     "date": "2025-08-12",
@@ -746,4 +746,4 @@ globalThis.games = [
     "end": "REMOVED",
     "ace": 13
   }
-];
+]
