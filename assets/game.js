@@ -218,10 +218,10 @@ globalThis.games = [
   },
   {
     "date": "2025-06-19",
-    "start": "SEAN",
-    "end": "PIERCE",
+    "start": "EAT",
+    "end": "DRINK",
     "ace": 6,
-    "difficulty": 1
+    "difficulty": 2
   },
   {
     "date": "2025-06-20",
