@@ -1,220 +1,101 @@
 globalThis.games = [
   {
-    "date": "2025-06-20",
+    "date": "2025-07-08",
     "start": "STAIR",
     "end": "CLIMB",
     "ace": 7,
     "difficulty": 2
   },
   {
-    "date": "2025-06-21",
+    "date": "2025-07-09",
     "start": "SWING",
     "end": "HOMER",
     "ace": 7,
     "difficulty": 1
   },
   {
-    "date": "2025-06-22",
+    "date": "2025-07-10",
     "start": "SPACE",
     "end": "SHIP",
     "ace": 6,
     "difficulty": 1
   },
   {
-    "date": "2025-06-23",
+    "date": "2025-07-11",
     "start": "SOUP",
     "end": "SALAD",
     "ace": 6,
     "difficulty": 2
   },
   {
-    "date": "2025-06-24",
+    "date": "2025-07-12",
     "start": "LUNCH",
     "end": "DINNER",
     "ace": 7,
     "difficulty": 2
   },
   {
-    "date": "2025-06-25",
+    "date": "2025-07-13",
     "start": "PEEK",
-    "end": "GLANCE",
+    "end": "GLARE",
     "ace": 7,
     "difficulty": 2
   },
   {
-    "date": "2025-06-26",
+    "date": "2025-07-14",
     "start": "LIGHT",
     "end": "DARK",
     "ace": 7,
     "difficulty": 1
   },
   {
-    "date": "2025-06-27",
+    "date": "2025-07-15",
     "start": "BEST",
     "end": "WORST",
     "ace": 4,
     "difficulty": 1
   },
   {
-    "date": "2025-06-28",
+    "date": "2025-07-16",
     "start": "SOLAR",
     "end": "POWER",
     "ace": 4,
     "difficulty": 1
   },
   {
-    "date": "2025-06-29",
+    "date": "2025-07-17",
     "start": "WILD",
     "end": "TAME",
     "ace": 5,
     "difficulty": 1
   },
   {
-    "date": "2025-06-30",
+    "date": "2025-07-18",
     "start": "PLANET",
     "end": "EARTH",
     "ace": 6,
     "difficulty": 3
   },
   {
-    "date": "2025-07-01",
+    "date": "2025-07-19",
     "start": "DEMON",
     "end": "ANGEL",
     "ace": 6,
     "difficulty": 4
   },
   {
-    "date": "2025-07-02",
+    "date": "2025-07-20",
     "start": "BILLIE",
     "end": "JEAN",
     "ace": 8,
     "difficulty": 2
   },
   {
-    "date": "2025-07-03",
-    "start": "PRINCE",
-    "end": "KING",
-    "ace": 6,
-    "difficulty": 2
-  },
-  {
-    "date": "2025-07-04",
-    "start": "STARS",
-    "end": "STRIPES",
-    "ace": 5,
-    "difficulty": 1
-  },
-  {
-    "date": "2025-07-05",
-    "start": "STARK",
-    "end": "IRON",
-    "ace": 6,
-    "difficulty": 1
-  },
-  {
-    "date": "2025-07-06",
-    "start": "PROVERBS",
-    "end": "PSALMS",
-    "ace": 8,
-    "difficulty": 3
-  },
-  {
-    "date": "2025-07-07",
-    "start": "RECITAL",
-    "end": "VERSES",
-    "ace": 8,
-    "difficulty": 3
-  },
-  {
-    "date": "2025-07-08",
-    "start": "FLOATS",
-    "end": "CRASHES",
-    "ace": 7,
-    "difficulty": 2
-  },
-  {
-    "date": "2025-07-09",
+    "date": "2025-07-21",
     "start": "NOVELS",
     "end": "STORIES",
     "ace": 7,
     "difficulty": 1
-  },
-  {
-    "date": "2025-07-10",
-    "start": "FISHES",
-    "end": "MAMMALS",
-    "ace": 8,
-    "difficulty": 2
-  },
-  {
-    "date": "2025-07-11",
-    "start": "HELLO",
-    "end": "GOODBYE",
-    "ace": 8,
-    "difficulty": 3
-  },
-  {
-    "date": "2025-07-12",
-    "start": "REAPING",
-    "end": "SOWING",
-    "ace": 5,
-    "difficulty": 1
-  },
-  {
-    "date": "2025-07-13",
-    "start": "CIRCUS",
-    "end": "MONKEY",
-    "ace": 8,
-    "difficulty": 3
-  },
-  {
-    "date": "2025-07-14",
-    "start": "HOCKEY",
-    "end": "DROPS",
-    "par": 9,
-    "ace": 6
-  },
-  {
-    "date": "2025-07-15",
-    "start": "LOOTERS",
-    "end": "VILLA",
-    "par": 10,
-    "ace": 7
-  },
-  {
-    "date": "2025-07-16",
-    "start": "WARDEN",
-    "end": "REALLY",
-    "par": 9,
-    "ace": 6
-  },
-  {
-    "date": "2025-07-17",
-    "start": "MATTE",
-    "end": "MEDIUM",
-    "par": 10,
-    "ace": 7
-  },
-  {
-    "date": "2025-07-18",
-    "start": "SENSORY",
-    "end": "SAVER",
-    "par": 9,
-    "ace": 6
-  },
-  {
-    "date": "2025-07-19",
-    "start": "COUSINS",
-    "end": "TUFTS",
-    "par": 13,
-    "ace": 9
-  },
-  {
-    "date": "2025-07-20",
-    "start": "DEEPEST",
-    "end": "LANCE",
-    "par": 12,
-    "ace": 8
   },
   {
     "date": "2025-07-21",
